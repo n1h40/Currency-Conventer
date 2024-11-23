@@ -106,6 +106,7 @@ img {
     line-height: normal;
     letter-spacing: 0.66px;
 }
+
 .text9 {
     width: 120px;
     height: 28px;
@@ -252,6 +253,7 @@ h1 {
     color: black;
     padding-left: 15px;
     outline: none;
+    font-size: 36px;
 }
 
 .inputTwo {
@@ -263,4 +265,5 @@ h1 {
     padding-left: 15px;
     margin-top: 21px;
     outline: none;
+    font-size: 36px;
 }
